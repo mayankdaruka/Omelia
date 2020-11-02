@@ -1,0 +1,12 @@
+# Function dependencies, for example: testing
+# package>=version
+# Testing
+gspread
+oauth2client
+matplotlib
+flask
+flask_restful
+flask_cors
+nltk
+sklearn
+numpy

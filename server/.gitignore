@@ -1,0 +1,10 @@
+bin/
+include/
+lib/
+lib64/
+lib64
+share/
+*.cfg
+*.vscode
+storage/
+creds.json

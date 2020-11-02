@@ -1,0 +1,5 @@
+node_modules/
+credentials.json
+cloud/creds.json
+server/creds.json
+cloud/glove.6B.50d.txt
